@@ -34,27 +34,23 @@ format:
 - 등장하는 이미지는 대체로 DALLE-3를 통해 생성되었습니다. 
 :::
 
-## On Speaker {.center .smaller}
+## 저는 요... {.center .smaller}
 :::{.nonincremental}
 - 경제학 박사  
 - Data Center Lead(센터장), NCSOFT
 - 46년차 게이머, 12년차 데이터 분석자 
 :::
 
-## 한 가지 걱정... {
+## {
   background-color="black" 
   background-image="images/panda.png" 
   background-size="full" 
   background-opacity="0.4"
+  style="text-align: center;"
+  .center
   }
 
-\
-\
-\
-
-:::{layout=[-1,20,-1] style="font-size: 1.3em;"}
-"오늘 제가 떠드는 말이 얼마나 도움이 될까요?"
-:::
+#### "걱정 하나는... 오늘 제가 떠드는 말이 얼마나 도움이 될까요?"
 
 # History Repeats Itself
 
@@ -80,7 +76,7 @@ format:
 - "도구"를 중심으로 사무직의 업무 방식을 바뀌어 나갔다.
 :::
 
-## Meet the Inventor! 
+## 개발자를 만나봅시다!
 {{< video https://www.youtube.com/watch?v=YDvbDiJZpy0 width=90% height=90% >}}
 
 :::footer
@@ -91,7 +87,7 @@ format:
 
 ![](images/spreadsheet_1.jpg){fig-align="center" width="100%"}
 
-## Lesson Learned {
+## 교훈 {
   background-color="black" 
   background-image="images/spreadsheet_1.jpg" 
   background-size="full" 
@@ -111,7 +107,7 @@ format:
 ![](/images/2016_job_2.png){fig-align="center"}
 :::
 
-## Trend in AI
+## AI의 경향 
 
 :::{layout="[[-1], [-0.1, 5, -0.1], [-1]]"}
 ![](/images/AI-performance_Dynabench-paper.png){}
@@ -131,19 +127,18 @@ format:
 - 지식 획득 시간을 단축하고 압축한다.  
 - 규모의 경제가 자연스럽다. 
 
-## 사무직의 대체{.smaller}
+## 사무직의 대체? {.smaller}
 
 :::{layout="[-0.1, 0.7, -0.1]"}
 ![AI는 무엇을 얼마나 잘하나? GO [🔗](https://ourworldindata.org/grapher/ai-performance-coding-math-knowledge-tests){preview-link="true"}](images/ai-performance-coding-math-knowledge-tests-2.png){fig-align="center"}
 :::
 
-## 지식의 압축
+## {
+  style="text-align: center;" 
+  .center
+  }
 
-\
-\
-\
-
-"검색이 없었던 시절, 여러분은 내기를 어떻게 했을까요?" 
+#### "검색이 없었던 시절, 전화 찬스를 아시나요?" 
 
 
 ## {fullscreen=false background-color="#999DA0" 
@@ -176,6 +171,20 @@ format:
 
 ::: footer
 :::
+
+## {
+  background-video="https://media.newyorker.com/clips/63e3dabdbe5bf9d9d559c90d/master/pass/Chiang_final.mp4" 
+  background-video-loop="true" 
+  background-video-muted="true" 
+  style="text-align: center;"
+  .center
+   }
+
+Ted Chiang, ["A blurry JPEG of the web"](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web)
+
+::: footer 
+:::
+
 
 ## 규모의 경제 
 
@@ -353,6 +362,5 @@ format:
 ## 4. 소통 능력은 언제나 진리!
 - LLM과 소통을 잘 하다보면 인간과도 잘 소통하게 효과가 있습니다! 
 - 기계에게 신경 쓰는 만큼 사람에게 신경쓰면 됩니다.
-
 
 # End of Document

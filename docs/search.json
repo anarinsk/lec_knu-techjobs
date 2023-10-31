@@ -7,18 +7,18 @@
     "text": "시작하기에 앞서\n\n\n이 내용은 제가 속한 회사의 공식적인 입장과 무관한 개인의 생각임을 밝혀둡니다.\n내용과 소스는 모두 공개되어 있습니다.\n\n내용: https://knu-techjobs.anari.dev\n소스: https://github.com/anarinsk/lec_knu-techjobs\n\n발표 자료는 Revealjs + Quarto를 통해 만들었습니다.\n등장하는 이미지는 대체로 DALLE-3를 통해 생성되었습니다."
   },
   {
-    "objectID": "main.html#on-speaker",
-    "href": "main.html#on-speaker",
+    "objectID": "main.html#저는-요",
+    "href": "main.html#저는-요",
     "title": "문송한 사람들의 생존법?",
-    "section": "On Speaker",
-    "text": "On Speaker\n\n\n경제학 박사\n\nData Center Lead(센터장), NCSOFT\n46년차 게이머, 12년차 데이터 분석자"
+    "section": "저는 요…",
+    "text": "저는 요…\n\n\n경제학 박사\n\nData Center Lead(센터장), NCSOFT\n46년차 게이머, 12년차 데이터 분석자"
   },
   {
-    "objectID": "main.html#한-가지-걱정",
-    "href": "main.html#한-가지-걱정",
+    "objectID": "main.html#section",
+    "href": "main.html#section",
     "title": "문송한 사람들의 생존법?",
-    "section": "한 가지 걱정…",
-    "text": "한 가지 걱정…\n\n\n\n\n\n\n\n \n\n\n“오늘 제가 떠드는 말이 얼마나 도움이 될까요?”"
+    "section": "",
+    "text": "“걱정 하나는… 오늘 제가 떠드는 말이 얼마나 도움이 될까요?”"
   },
   {
     "objectID": "main.html#스프레드시트",
@@ -35,11 +35,11 @@
     "text": "엑셀의 의미는?\n\n\n데이터를 보는 방식을 바꾸었다.\n데이터를 다루는 그리고 데이터로 일하는 방식을 바꾸었다.\n“도구”를 중심으로 사무직의 업무 방식을 바뀌어 나갔다."
   },
   {
-    "objectID": "main.html#meet-the-inventor",
-    "href": "main.html#meet-the-inventor",
+    "objectID": "main.html#개발자를-만나봅시다",
+    "href": "main.html#개발자를-만나봅시다",
     "title": "문송한 사람들의 생존법?",
-    "section": "Meet the Inventor!",
-    "text": "Meet the Inventor!"
+    "section": "개발자를 만나봅시다!",
+    "text": "개발자를 만나봅시다!"
   },
   {
     "objectID": "main.html#spreadsheet-apocalypse",
@@ -49,11 +49,11 @@
     "text": "Spreadsheet Apocalypse?"
   },
   {
-    "objectID": "main.html#lesson-learned",
-    "href": "main.html#lesson-learned",
+    "objectID": "main.html#교훈",
+    "href": "main.html#교훈",
     "title": "문송한 사람들의 생존법?",
-    "section": "Lesson Learned",
-    "text": "Lesson Learned\n\n재앙(망했어요!)은 대체로 일어나지 않는다.\n기술 발전은 오히려 일자리를 늘리는 경향이 있다.\n하지만 직업의 세계에서 승자와 패자는 분명히 존재한다."
+    "section": "교훈",
+    "text": "교훈\n\n재앙(망했어요!)은 대체로 일어나지 않는다.\n기술 발전은 오히려 일자리를 늘리는 경향이 있다.\n하지만 직업의 세계에서 승자와 패자는 분명히 존재한다."
   },
   {
     "objectID": "main.html#한치-앞을-보기-힘든-당신",
@@ -63,11 +63,11 @@
     "text": "한치 앞을 보기 힘든 당신…"
   },
   {
-    "objectID": "main.html#trend-in-ai",
-    "href": "main.html#trend-in-ai",
+    "objectID": "main.html#ai의-경향",
+    "href": "main.html#ai의-경향",
     "title": "문송한 사람들의 생존법?",
-    "section": "Trend in AI",
-    "text": "Trend in AI"
+    "section": "AI의 경향",
+    "text": "AI의 경향"
   },
   {
     "objectID": "main.html#llm",
@@ -87,29 +87,36 @@
     "objectID": "main.html#사무직의-대체",
     "href": "main.html#사무직의-대체",
     "title": "문송한 사람들의 생존법?",
-    "section": "사무직의 대체",
-    "text": "사무직의 대체\n\n\n\n \n\n\n\nAI는 무엇을 얼마나 잘하나? GO 🔗"
-  },
-  {
-    "objectID": "main.html#지식의-압축",
-    "href": "main.html#지식의-압축",
-    "title": "문송한 사람들의 생존법?",
-    "section": "지식의 압축",
-    "text": "지식의 압축\n\n\n\n\n“검색이 없었던 시절, 여러분은 내기를 어떻게 했을까요?”"
-  },
-  {
-    "objectID": "main.html#section",
-    "href": "main.html#section",
-    "title": "문송한 사람들의 생존법?",
-    "section": "",
-    "text": "항해"
+    "section": "사무직의 대체?",
+    "text": "사무직의 대체?\n\n\n\n \n\n\n\nAI는 무엇을 얼마나 잘하나? GO 🔗"
   },
   {
     "objectID": "main.html#section-1",
     "href": "main.html#section-1",
     "title": "문송한 사람들의 생존법?",
     "section": "",
+    "text": "“검색이 없었던 시절, 전화 찬스를 아시나요?”"
+  },
+  {
+    "objectID": "main.html#section-2",
+    "href": "main.html#section-2",
+    "title": "문송한 사람들의 생존법?",
+    "section": "",
+    "text": "항해"
+  },
+  {
+    "objectID": "main.html#section-3",
+    "href": "main.html#section-3",
+    "title": "문송한 사람들의 생존법?",
+    "section": "",
     "text": "압축"
+  },
+  {
+    "objectID": "main.html#section-4",
+    "href": "main.html#section-4",
+    "title": "문송한 사람들의 생존법?",
+    "section": "",
+    "text": "Ted Chiang, “A blurry JPEG of the web”"
   },
   {
     "objectID": "main.html#규모의-경제",
@@ -119,8 +126,8 @@
     "text": "규모의 경제"
   },
   {
-    "objectID": "main.html#section-2",
-    "href": "main.html#section-2",
+    "objectID": "main.html#section-5",
+    "href": "main.html#section-5",
     "title": "문송한 사람들의 생존법?",
     "section": "",
     "text": "계산능력 vs 효과. GO 🔗\n\n\n\n\n \n\n\n\n시기 별 계산 능력의 변화 GO 🔗"
@@ -140,15 +147,15 @@
     "text": "네 가지 (조심스런) 조언\n\n\n\n\n\nLLM, 해치지 않아요.\nLLM을 어떻게 부릴지 고민하세요.\n코딩에 새롭게 익숙해지세요.\n\n소통 능력은 언제나 진리입니다."
   },
   {
-    "objectID": "main.html#section-3",
-    "href": "main.html#section-3",
+    "objectID": "main.html#section-6",
+    "href": "main.html#section-6",
     "title": "문송한 사람들의 생존법?",
     "section": "",
     "text": "Doom’s Day"
   },
   {
-    "objectID": "main.html#section-4",
-    "href": "main.html#section-4",
+    "objectID": "main.html#section-7",
+    "href": "main.html#section-7",
     "title": "문송한 사람들의 생존법?",
     "section": "",
     "text": "기술 발전의 과정"
@@ -168,22 +175,22 @@
     "text": "2. LLM을 잘 부려보자.\n\n회사의 입장에 서서 한번 생각해봅시다.\nLLM보다 뛰어난 인턴을 뽑는 게 쉬울까요?\nLLM을 잘 부릴 수 있다면, 그가 뛰어난 인턴이 될 것입니다.\n\n자연어로 컴퓨터와 깊이 소통할 수 있게 된 최초의 시대\n인턴은 언제나 틀릴 수 있습니다. LLM도 마찬가지입니다."
   },
   {
-    "objectID": "main.html#section-5",
-    "href": "main.html#section-5",
+    "objectID": "main.html#section-8",
+    "href": "main.html#section-8",
     "title": "문송한 사람들의 생존법?",
     "section": "",
     "text": "기본적으로 채팅"
   },
   {
-    "objectID": "main.html#section-6",
-    "href": "main.html#section-6",
+    "objectID": "main.html#section-9",
+    "href": "main.html#section-9",
     "title": "문송한 사람들의 생존법?",
     "section": "",
     "text": "Advanced Data Analysis. GO 🔗"
   },
   {
-    "objectID": "main.html#section-7",
-    "href": "main.html#section-7",
+    "objectID": "main.html#section-10",
+    "href": "main.html#section-10",
     "title": "문송한 사람들의 생존법?",
     "section": "",
     "text": "여러 분의 회화 선생님. GO 🔗"
@@ -196,22 +203,22 @@
     "text": "3. 코딩을 ‘새롭게’ 보자.\n\npython 정도는 필수입니다!\n\n이제는 엑셀에도 들어 갑니다!\n\n말(과 글)로 코딩하는 법에 익숙해지세요."
   },
   {
-    "objectID": "main.html#section-8",
-    "href": "main.html#section-8",
+    "objectID": "main.html#section-11",
+    "href": "main.html#section-11",
     "title": "문송한 사람들의 생존법?",
     "section": "",
     "text": "Python in Excel 1"
   },
   {
-    "objectID": "main.html#section-9",
-    "href": "main.html#section-9",
+    "objectID": "main.html#section-12",
+    "href": "main.html#section-12",
     "title": "문송한 사람들의 생존법?",
     "section": "",
     "text": "Python in Excel 2. GO 🔗"
   },
   {
-    "objectID": "main.html#section-10",
-    "href": "main.html#section-10",
+    "objectID": "main.html#section-13",
+    "href": "main.html#section-13",
     "title": "문송한 사람들의 생존법?",
     "section": "",
     "text": "코파일럿으로 코딩하기. GO 🔗"
