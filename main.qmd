@@ -44,13 +44,14 @@ format:
   background-color="black" 
   background-image="images/panda.png" 
   background-size="full" 
-  background-opacity="0.4"}
+  background-opacity="0.4"
+  }
 
 \
 \
 \
 
-::: {.r-fit-text}
+:::{layout=[-1,20,-1] style="font-size: 1.3em;"}
 "오늘 제가 떠드는 말이 얼마나 도움이 될까요?"
 :::
 
