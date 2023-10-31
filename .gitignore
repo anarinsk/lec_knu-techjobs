@@ -1,5 +1,5 @@
 # Windows trash 
-.indentifier
+*.indentifier
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
