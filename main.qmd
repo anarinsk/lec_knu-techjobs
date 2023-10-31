@@ -19,7 +19,6 @@ format:
         logo: "logo_knu-1.png"
         footer: "경북대 경상대학 특강"
         #preview-links: false
-
         #self-contained: true
         revealjs-plugins:
           - fullscreen
@@ -187,9 +186,9 @@ format:
 ##
 
 :::{layout="[5, -0.2, 5]"}
-![계산능력 vs 효과. GO [🔗](https://ourworldindata.org/grapher/ai-performance-knowledge-tests-vs-training-computation)](images/ai-performance-knowledge-tests-vs-training-computation.png)
+![계산능력 vs 효과. GO [🔗](https://ourworldindata.org/grapher/ai-performance-knowledge-tests-vs-training-computation){preview-link="true"}](images/ai-performance-knowledge-tests-vs-training-computation.png)
 
-![시기 별 계산 능력의 변화 GO [🔗](https://ourworldindata.org/grapher/artificial-intelligence-training-computation)](images/artificial-intelligence-training-computation.png)
+![시기 별 계산 능력의 변화 GO [🔗](https://ourworldindata.org/grapher/artificial-intelligence-training-computation){preview-link="true"}](images/artificial-intelligence-training-computation.png)
 :::
 
 ## 우리는 어디로 가고 있을까? 
@@ -274,7 +273,8 @@ format:
     .center
     }
 
-#### Advanced Data Analysis. GO [🔗](https://youtu.be/SzTjGAO6fKo?t=220)
+#### Advanced Data Analysis. GO [🔗](https://youtu.be/SzTjGAO6fKo?t=220){target="_blank"}
+
 :::{layout="[-1,1,-1]"}
 ![](/images/chatGPT4-da.png)
 :::
@@ -290,7 +290,8 @@ format:
     .center
     }
 
-#### 여러 분의 회화 선생님. GO [🔗](https://youtu.be/4dDkUxR7dIE?t=261)
+#### 여러 분의 회화 선생님. GO [🔗](https://youtu.be/4dDkUxR7dIE?t=261){target="_blank"}
+
 :::{layout="[-1,0.5,-1]"}
 ![](/images/chatGPT4-voice.png)
 :::
@@ -324,7 +325,8 @@ format:
     .center
     }
 
-#### Python in Excel 2. GO [🔗](https://support.microsoft.com/ko-kr/office/excel%EC%9D%98-python-%EC%86%8C%EA%B0%9C-55643c2e-ff56-4168-b1ce-9428c8308545)
+#### Python in Excel 2. GO [🔗](https://support.microsoft.com/ko-kr/office/excel%EC%9D%98-python-%EC%86%8C%EA%B0%9C-55643c2e-ff56-4168-b1ce-9428c8308545){target="_blank"}
+
 :::{layout="[-1,3,-1]"}
 ![](/images/python-in-excel-2.gif)
 :::
@@ -340,7 +342,7 @@ format:
     .center
     }
 
-#### 코파일럿으로 코딩하기. GO [🔗](https://github.com/features/copilot){target="_blank"}
+#### 코파일럿으로 코딩하기. GO [🔗](https://github.com/features/copilot){tarkget="_blank"}
 :::{layout="[-1,0.7,-1]"}
 ![](/images/coding-friends.png)
 :::

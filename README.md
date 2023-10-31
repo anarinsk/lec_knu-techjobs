@@ -10,13 +10,17 @@
 
 ## Deployed at 
 
+<https://knu-techjobs.anari.dev>
 
-## Technical tips 
+## Technical details 
+
+- Quarto + Revealjs에 관한 내용은 [LINK](https://fun-pt.lostineconomics.com/main.html) 참고
+
+## Tips
 
 ### 부분 확대 
 
 - alt + (원하는 부분) 커서 누르면 해당 부분이 확대된다. 
-
-### 
+ 
 
 
