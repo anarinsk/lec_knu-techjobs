@@ -1,7 +1,7 @@
 ---
 title: "문송한 사람들의 생존법?"
 subtitle: "LLM 시대 일과 일하는 방법의 변화"
-author: "허준석"
+author: "[허준석](mailto:jshuhh@naver.com)"
 date: "2023-11-09"
 fig-cap-location: top
 format: 
