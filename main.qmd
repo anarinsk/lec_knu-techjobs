@@ -176,11 +176,11 @@ format:
   background-video="https://media.newyorker.com/clips/63e3dabdbe5bf9d9d559c90d/master/pass/Chiang_final.mp4" 
   background-video-loop="true" 
   background-video-muted="true" 
-  style="text-align: center;"
+  style="text-align: center; text-shadow: 4px 2px 2px gray; text-shadow: 4px 2px 2px gray;"
   .center
    }
 
-Ted Chiang, ["A blurry JPEG of the web"](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web)
+### Ted Chiang, ["A blurry JPEG of the web"](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web)
 
 ::: footer 
 :::
