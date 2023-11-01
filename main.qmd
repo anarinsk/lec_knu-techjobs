@@ -363,7 +363,7 @@ format:
     .center
     }
 
-#### 코파일럿으로 코딩하기. GO [🔗](https://github.com/features/copilot){tarkget="_blank"}
+#### 코파일럿으로 코딩하기. GO [🔗](https://github.com/features/copilot){target="_blank"}
 :::{layout="[-1,0.7,-1]"}
 ![](/images/coding-friends.png)
 :::
