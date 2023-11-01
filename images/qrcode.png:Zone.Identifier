@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://goqr.me/
+HostUrl=https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=https%3A%2F%2Fknu-techjobs.anari.dev%2F&qzone=1&margin=0&size=400x400&ecc=L&format=png&download=1
