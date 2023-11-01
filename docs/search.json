@@ -70,11 +70,11 @@
     "text": "AI의 경향"
   },
   {
-    "objectID": "main.html#llm",
-    "href": "main.html#llm",
+    "objectID": "main.html#llm이란",
+    "href": "main.html#llm이란",
     "title": "문송한 사람들의 생존법?",
-    "section": "LLM",
-    "text": "LLM\n\n기계 학습, AI라고 말하는 대신 보다 정확하게 말하겠다.\nLarge Language Model\n역사 시대 이래 인간 지식의 정수인 “언어”를 해킹하는 기술"
+    "section": "LLM이란?",
+    "text": "LLM이란?\n\n기계 학습, AI라고 말하는 대신 보다 정확하게 말하겠다.\nLarge Language Model\n역사 시대 이래 인간 지식의 정수인 “언어”를 해킹하는 기술"
   },
   {
     "objectID": "main.html#llm은-왜-파괴적인가",
@@ -140,22 +140,22 @@
     "text": "우리는 어디로 가고 있을까?\n\n\n\n \n\n\n\n향후 20년. GO 🔗"
   },
   {
-    "objectID": "main.html#네-가지-조심스런-조언",
-    "href": "main.html#네-가지-조심스런-조언",
-    "title": "문송한 사람들의 생존법?",
-    "section": "네 가지 (조심스런) 조언",
-    "text": "네 가지 (조심스런) 조언\n\n\n\n\n\nLLM, 해치지 않아요.\nLLM을 어떻게 부릴지 고민하세요.\n코딩에 새롭게 익숙해지세요.\n\n소통 능력은 언제나 진리입니다."
-  },
-  {
     "objectID": "main.html#section-6",
     "href": "main.html#section-6",
+    "title": "문송한 사람들의 생존법?",
+    "section": "",
+    "text": "1. LLM, 해치지 않아요.\n2. LLM을 어떻게 부릴지 고민하세요.\n3. 코딩에 새롭게 익숙해지세요.\n4. 소통 능력은 언제나 진리입니다."
+  },
+  {
+    "objectID": "main.html#section-7",
+    "href": "main.html#section-7",
     "title": "문송한 사람들의 생존법?",
     "section": "",
     "text": "Doom’s Day"
   },
   {
-    "objectID": "main.html#section-7",
-    "href": "main.html#section-7",
+    "objectID": "main.html#section-8",
+    "href": "main.html#section-8",
     "title": "문송한 사람들의 생존법?",
     "section": "",
     "text": "기술 발전의 과정"
@@ -175,22 +175,22 @@
     "text": "2. LLM을 잘 부려보자.\n\n회사의 입장에 서서 한번 생각해봅시다.\nLLM보다 뛰어난 인턴을 뽑는 게 쉬울까요?\nLLM을 잘 부릴 수 있다면, 그가 뛰어난 인턴이 될 것입니다.\n\n자연어로 컴퓨터와 깊이 소통할 수 있게 된 최초의 시대\n인턴은 언제나 틀릴 수 있습니다. LLM도 마찬가지입니다."
   },
   {
-    "objectID": "main.html#section-8",
-    "href": "main.html#section-8",
+    "objectID": "main.html#section-9",
+    "href": "main.html#section-9",
     "title": "문송한 사람들의 생존법?",
     "section": "",
     "text": "기본적으로 채팅"
   },
   {
-    "objectID": "main.html#section-9",
-    "href": "main.html#section-9",
+    "objectID": "main.html#section-10",
+    "href": "main.html#section-10",
     "title": "문송한 사람들의 생존법?",
     "section": "",
     "text": "Advanced Data Analysis. GO 🔗"
   },
   {
-    "objectID": "main.html#section-10",
-    "href": "main.html#section-10",
+    "objectID": "main.html#section-11",
+    "href": "main.html#section-11",
     "title": "문송한 사람들의 생존법?",
     "section": "",
     "text": "여러 분의 회화 선생님. GO 🔗"
@@ -203,22 +203,22 @@
     "text": "3. 코딩을 ‘새롭게’ 보자.\n\npython 정도는 필수입니다!\n\n엑셀에 이미 들어 있습니다…\n\n말(과 글)로 코딩하는 법에 익숙해지세요.\n\nMS Copilot"
   },
   {
-    "objectID": "main.html#section-11",
-    "href": "main.html#section-11",
+    "objectID": "main.html#section-12",
+    "href": "main.html#section-12",
     "title": "문송한 사람들의 생존법?",
     "section": "",
     "text": "Python in Excel 1"
   },
   {
-    "objectID": "main.html#section-12",
-    "href": "main.html#section-12",
+    "objectID": "main.html#section-13",
+    "href": "main.html#section-13",
     "title": "문송한 사람들의 생존법?",
     "section": "",
     "text": "Python in Excel 2. GO 🔗"
   },
   {
-    "objectID": "main.html#section-13",
-    "href": "main.html#section-13",
+    "objectID": "main.html#section-14",
+    "href": "main.html#section-14",
     "title": "문송한 사람들의 생존법?",
     "section": "",
     "text": "코파일럿으로 코딩하기. GO 🔗"
