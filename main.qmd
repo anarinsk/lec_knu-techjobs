@@ -75,7 +75,7 @@ format:
 ![](images/Visicalc.jpg){fig-align="center" width="100%"}
 
 
-## 엑셀의 의미는? {
+## '엑셀'의 역사적 의의 {
   background-color="black" 
   background-image="images/Visicalc.jpg" 
   background-size="full" 
@@ -193,7 +193,7 @@ format:
   .center
    }
 
-### Ted Chiang, ["A blurry JPEG of the web"](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web)
+### Ted Chiang, ["A blurry JPEG of the web"](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web){target="_blank"}
 
 ::: footer 
 :::
@@ -377,4 +377,15 @@ format:
 - LLM과 소통을 잘 하다보면 인간과도 잘 소통하게 효과가 있습니다! 
 - 기계에게 신경 쓰는 만큼 사람에게 신경쓰면 됩니다.
 
-# End of Document
+
+# 끝 {
+  background-color="black" 
+  background-image="images/la-condition-humaine-2.png" 
+  background-size="contain" 
+  background-opacity="0.7"
+  .center
+  }
+
+:::{.footer}
+René Magritte, "La condition humaine" (1945)
+:::
