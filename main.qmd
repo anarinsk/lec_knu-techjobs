@@ -64,10 +64,19 @@ format:
 #### "걱정 하나는... 오늘 제가 떠드는 말이 얼마나 도움이 될까요?"
 
 :::{.notes}
-제가 IT 회사에서 필요한 인재상, 이런 걸 딱 정해서 말씀 드릴 수 있다면 좋을 것입니다. 하지만 저는 그런게 있는지 잘 모르겠습니다. 아직 경험이 부족해서 그런지 모르겠지만, 그렇습니다. 그래서 이 프로그램의 다른 연사 분들을 쭉 봤는데요. 저보다 훨씬 훌륭하고 이런 건 말씀해주실 수 있는 분들이더라고요. 그래서 저는 조금 다른 방향에서 여러 분에게 아주 작은 도움이나마 드릴 수 있는 내용이 무엇인지 고민해 보았습니다. 혹시라도 오늘 제 이야기가 도움이 되지 않는다면 그냥 무시하시고 앞으로 나아가시면 됩니다. 조금이라도 도음이 된다면 제가 감사할 일입니다. 
+- 제가 IT 회사에서 필요한 인재상, 이런 걸 딱 정해서 말씀 드릴 수 있다면 좋을 것
+- 하지만 그런게 있는지 잘 모르겠음 
+- 그래서 이 프로그램의 다른 연사 분들을 쭉 봤는데요. 저보다 훨씬 훌륭하고 이런 건 말씀해주실 수 있는 분들. 
+- 저는 조금 다른 방향에서 여러 분에게 아주 작은 도움이나마 드릴 수 있는 내용이 무엇인지 고민
 :::
 
 # History Repeats Itself
+
+:::{.notes}
+- 역사는 반복된다는 말
+- 이 말은 요즘 겪은 어떤 현상이나 의문이 있다면 과거를 한번 돌아 보면 좋다는 이야기
+- 오늘 우리 주제에 대해서도 마찬가지
+:::
 
 ## 스프레드시트
 
@@ -78,6 +87,10 @@ format:
 
 ![](images/Visicalc.jpg){fig-align="center" width="100%"}
 
+:::{.notes}
+- 화면을 살펴보자. 
+- 어딘가 익숙하지 않은가? 사실상 뼈대는 엑셀과 동일하다. 
+:::
 
 ## '엑셀'의 역사적 의의 {
   background-color="black" 
@@ -91,11 +104,23 @@ format:
 - "도구"를 중심으로 사무직의 업무 방식이 변화한 사례
 :::
 
+:::{.notes}
+- 물론 여전히 엑셀을 이상하게 쓰시는 분들 많다...
+- 열, 컬럼을 중심으로 데이터를 볼 수 있게 되었다. 
+- 데이터가 많이 새롭게 생성되었다. 
+:::
+
 ## 개발자를 만나봅시다!
 {{< video https://www.youtube.com/watch?v=YDvbDiJZpy0 width=90% height=90% >}}
 
 :::footer
 :::
+
+:::{.notes}
+- 댄 브리클린이란 분이 남겨 둔 소중한 영상. 1분 정도만 잠시 보자. 
+- 잡스 이야기가 궁금하시면 나중에 이어서 보시라. 
+:::
+
 
 ## Spreadsheet Apocalypse? 
 
@@ -121,6 +146,11 @@ format:
 ![](/images/2016_job_2.png){fig-align="center"}
 :::
 
+:::{.notes}
+- 몇 년에 발표한 자료 같은가? 2016년... 알파고... 
+- 지금 생각하면 어떤가? 마이크 타이슨 "얼굴을 두드려 맞기 전까지 누구나 계획은 있다."
+:::
+
 # LLM의 시대 
 
 ## AI의 경향 
@@ -129,12 +159,20 @@ format:
 ![](/images/AI-performance_Dynabench-paper.png){}
 :::
 
+:::{.notes}
+- 거의 모든 인간의 인지활동에서 AI가 인간을 앞서고 있다.
+- 가장 최근에 두각을 나타내는 분야는? 
+:::
+
 ## LLM이란?
 
 - 기계 학습, AI라고 말하는 대신 보다 정확하게 말하겠다. 
 - Large Language Model 
 - 역사 시대 이래 인간 지식의 정수인 "언어"를 해킹하는 기술 
 
+:::{.notes}
+- 자세히는 말하지 않겠다... (사실 잘 몰라서 그렇다)
+:::
 
 ## LLM은 왜 파괴적인가? 
 '문과' 출신인 제가 볼 때 말입니다...
@@ -153,6 +191,12 @@ format:
   style="text-align: center;" 
   .center
   }
+
+:::{.notes}
+- AI가 어떤 분야를 잘 하는지를 유심히 관찰하시기를 
+- 오늘날 LLM이 가장 대체하기 쉬운 분야는 지식 노동, 단순하고 반복적인 지식 노동 
+- 왜 LLM이 각광받을까요? 신박한 기술이어서? 
+:::
 
 #### "검색이 없었던 시절, 전화 찬스를 아시나요?" 
 
@@ -216,13 +260,17 @@ format:
 ![시기 별 계산 능력의 변화 GO [🔗](https://ourworldindata.org/grapher/artificial-intelligence-training-computation){preview-link="true"}](images/artificial-intelligence-training-computation.png)
 :::
 
+:::{.notes}
+- AI의 겨울을 확인하실 수 있습니다. 
+- 그리고 하나 더! x축을 유심히 보세요... 
+:::
+
 ## 우리는 어디로 가고 있을까? 
 :::{layout="[-0.1, 0.55, -0.1]"}
 ![향후 20년. GO [🔗](https://ourworldindata.org/grapher/views-ai-impact-society-next-20-years?time=latest&country=USA~FRA~DEU~GBR~JPN~CHN~IND~IDN~KOR){preview-link="true"}](images/views-ai-impact-society-next-20-years.png){fig-align="center"}
 :::
 
 # 네 가지 (조심스런) 조언
-
 
 ## {.center}
 
@@ -267,6 +315,10 @@ format:
 - 향후 10년간, 엑셀이 사무직에 미친 영향보다 큰 영향을 줄 것
 - 또다른 기술 발전의 경향으로 이해하고 적응하면 됩니다. 
 
+:::{.notes}
+- 이유 없이 비관적일 필요는 없다. 
+- 낙관적인 자세로 잘 살피면서 적응하고 대응하면 될 일
+:::
 
 ## 2. LLM을 잘 부려보자.
 - 회사의 입장에 서서 한번 생각해봅시다. 
@@ -274,6 +326,12 @@ format:
 - LLM을 잘 부릴 수 있다면, 그가 뛰어난 인턴이 될 것입니다. 
   - 자연어로 컴퓨터와 깊이 소통할 수 있게 된 최초의 시대 
   - 인턴은 언제나 틀릴 수 있습니다. LLM도 마찬가지입니다. 
+
+:::{.notes}
+- 어떤 회사에 "인턴"이 되는 것이 어떤 것일지 잘 생각해보세요. 
+- 과거 의미에서 좋은 인턴은 이미 존재하는지도 모릅니다. 
+- 그렇다면 '좋은' 인턴이 되기 위해서 어떤 것이 필요할까요? 
+:::
 
 ## {fullscreen=true, 
     background-opacity="0.15"
@@ -289,6 +347,7 @@ format:
 
 ::: footer
 :::
+
 
 ## {
     fullscreen=false, 
@@ -315,6 +374,23 @@ format:
     .center
     }
 
+#### chatGPT
+
+:::{layout="[-1,2,-1]"}
+[![](/images/chatGPT.png)](https://chat.openai.com/)
+:::
+
+:::{.footer} 
+:::
+
+## {
+    fullscreen=false, 
+    background-opacity="0.15"
+    style="text-align: center;"
+    .smaller
+    .center
+    }
+
 #### 여러 분의 회화 선생님. GO [🔗](https://youtu.be/4dDkUxR7dIE?t=261){target="_blank"}
 
 :::{layout="[-1,0.5,-1]"}
@@ -327,7 +403,7 @@ format:
 ## 3. 코딩을 '새롭게' 보자. 
 - python 정도는 필수입니다! 
   - 엑셀에 이미 들어 있습니다... 
-- 말(과 글)로 코딩하는 법에 익숙해지세요. 
+- 말(과 글)로 코딩하는 것이 가능해진 시대
   - MS Copilot 
 
 ## {
