@@ -10,7 +10,7 @@
 
 ## Deployed at 
 
-<https://knu-techjobs.anari.dev>
+<https://www.lostineconomics.com/lec_knu-techjobs/>
 
 ## Technical details 
 
